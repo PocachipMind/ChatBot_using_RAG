@@ -7,7 +7,8 @@ RAG를 활용한 ChatBot 구현
 2. KakaoTalk
 
 # 시연 영상
-
+![VID_20250224_201925-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/20fc9279-552e-413a-8257-ced02a784ad6) | ![VID_20250224_200751-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/25430667-e893-4b5a-be31-f1c3ad699284)
+---|---|
 # 세부 구현 사항
 
 ## 1. 벡터 데이터 베이스 및 LLM
