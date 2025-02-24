@@ -56,7 +56,10 @@ https://python.langchain.com/v0.2/docs/how_to/qa_chat_history_how_to/#prompt
 
 ![image](https://github.com/user-attachments/assets/47c46fe8-031d-4fd3-9aeb-35301b837121)
 
-해당 구현을 통해 
+해당 구현을 통해 과거 맥락을 파악할 수 있음.
+
+![image](https://github.com/user-attachments/assets/6051f931-8889-4db3-8aa6-2c67974a6307)
+
 
 ------------------
 ### 역할 부여
