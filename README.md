@@ -28,7 +28,7 @@ OpenAI gpt 사용
 ![image](https://github.com/user-attachments/assets/ba5397cc-a865-41a7-ad2f-043994617bb3)
 
 
-## 2. 참고 자료
+## 2. 참고 문서
 
 나(이성규) 에 대한 정보를 담은 문서로 작성. 이력서를 docx 형식으로 변환하고, 개인적인 취향 등 데이터를 제작함.
 
@@ -56,6 +56,8 @@ https://python.langchain.com/v0.2/docs/how_to/qa_chat_history_how_to/#prompt
 
 ![image](https://github.com/user-attachments/assets/47c46fe8-031d-4fd3-9aeb-35301b837121)
 
+해당 구현을 통해 
+
 ------------------
 ### 역할 부여
 
@@ -72,6 +74,8 @@ https://python.langchain.com/v0.2/docs/how_to/qa_chat_history_how_to/#prompt
 ![image](https://github.com/user-attachments/assets/43ce3b14-5a5c-4b80-865a-125b4ba90d0f)
 
 예시 프롬포트를 적용해서 모르는 것에 대해 올바르게 답하도록 조정.
+
+
 
 # 깃 설명
 
