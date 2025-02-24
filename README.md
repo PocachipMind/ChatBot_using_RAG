@@ -71,8 +71,7 @@ https://python.langchain.com/v0.2/docs/how_to/qa_chat_history_how_to/#prompt
 -------------------
 ### FewShot 적용
 
-![스크린샷 2025-02-24 143520](https://github.com/user-attachments/assets/6d1d6884-89ba-4d33-9d46-e3dd2f308759)
-![스크린샷 2025-02-24 143502](https://github.com/user-attachments/assets/17b1dd69-1727-4ed5-9d4a-c499fac9c05d)
+![image](https://github.com/user-attachments/assets/ccc1df26-26b5-41a7-8248-54a1ab722180)
 
 위 이미지와 같이 문서에서 발견하지 못한 내용에도 자꾸 ``내 관찰결과에 따르면`` 아웃풋을 내놓음.
 
