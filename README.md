@@ -3,7 +3,7 @@
 RAG를 활용한 ChatBot 구현
 
 배포 :
-1. Streamlit - streamlit cloud
+1. Streamlit - Streamlit Cloud
 2. KakaoTalk - 개인 채널 챗봇
 
 # 시연 영상
