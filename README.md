@@ -50,7 +50,9 @@ RAG로 활용되는 문서에서 빈번하게 사용될만한 단어를 찾아 �
 
 ------------------
 
-### 히스토리 추가할 때 공식 문서 프롬포팅 사용.
+### 히스토리 추가
+
+히스토리 추가할 때 공식 문서 프롬포팅 사용.
 
 https://python.langchain.com/v0.2/docs/how_to/qa_chat_history_how_to/#prompt
 
