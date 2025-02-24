@@ -38,3 +38,44 @@ OpenAI gpt 사용
 
 OpenAI는 마크다운의 형식을 사용하므로 docx의 테이블을 이해하지 못하여, 마크다운 형식으로 변환
 
+## 프롬포트
+
+### 유사도 검색을 할 때 사용할 문장 다듬기 
+
+RAG로 활용되는 문서에서 빈번하게 사용될만한 단어를 찾아 정리.
+
+내 데이터의 경우 자주 등장하는 단어나 대체할만한 단어가 없어서 간략히 한 개만 넣어줌.
+
+![image](https://github.com/user-attachments/assets/b186ed06-9d86-4106-9e70-64f712d95bee)
+
+------------------
+
+### 히스토리 관련 공식 문서 프롬포팅 사용.
+
+https://python.langchain.com/v0.2/docs/how_to/qa_chat_history_how_to/#prompt
+
+![image](https://github.com/user-attachments/assets/47c46fe8-031d-4fd3-9aeb-35301b837121)
+
+------------------
+### 역할 부여
+
+![image](https://github.com/user-attachments/assets/f7a4e7aa-d35f-40bf-b92f-c4aa8a089ebf)
+
+-------------------
+### FewShot 적용
+
+![스크린샷 2025-02-24 143520](https://github.com/user-attachments/assets/6d1d6884-89ba-4d33-9d46-e3dd2f308759)
+![스크린샷 2025-02-24 143502](https://github.com/user-attachments/assets/17b1dd69-1727-4ed5-9d4a-c499fac9c05d)
+
+위 이미지와 같이 문서에서 발견하지 못한 내용에도 자꾸 ``내 관찰결과에 따르면`` 아웃풋을 내놓음.
+
+![image](https://github.com/user-attachments/assets/43ce3b14-5a5c-4b80-865a-125b4ba90d0f)
+
+예시 프롬포트를 적용해서 모르는 것에 대해 올바르게 답하도록 조정.
+
+# 깃 설명
+
+- DB : 문서 및 임베딩 관련 코드 기재
+- Project :
+  - chat_ui.py : Streamlit 관련 실행 코드
+  - chat_ui_kakao.py : 카카오 관련 실행 코드
