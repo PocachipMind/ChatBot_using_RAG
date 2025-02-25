@@ -67,6 +67,8 @@ https://python.langchain.com/v0.2/docs/how_to/qa_chat_history_how_to/#prompt
 ------------------
 ### 역할 부여
 
+페르소나를 통해 모델의 성능 향상 기대, 원하는 포멧으로 말하도록 유도.
+
 ![image](https://github.com/user-attachments/assets/f7a4e7aa-d35f-40bf-b92f-c4aa8a089ebf)
 
 -------------------
