@@ -80,7 +80,7 @@ https://python.langchain.com/v0.2/docs/how_to/qa_chat_history_how_to/#prompt
 
 ![image](https://github.com/user-attachments/assets/43ce3b14-5a5c-4b80-865a-125b4ba90d0f)
 
-예시 프롬포트를 적용해서 모르는 것에 대해 올바르게 답하도록 조정.
+예시 프롬포트를 적용해서 모르는 것에 대해 ``내 관찰결과에 따르면``을 붙이지 않고 올바르게 답하도록 조정.
 
 
 
