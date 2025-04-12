@@ -55,8 +55,6 @@ RAG로 활용되는 문서에서 빈번하게 사용될만한 단어를 찾아 �
 
 ### 히스토리 추가
 
-히스토리 추가할 때 모든 메세지를 넣어서 토큰을 사용하는것이 아닌 공식 문서 프롬포트 및 코드를 참고하여, 요약 히스토리를 통해 토큰 절약.
-
 https://python.langchain.com/v0.2/docs/how_to/qa_chat_history_how_to/#prompt
 
 ![image](https://github.com/user-attachments/assets/47c46fe8-031d-4fd3-9aeb-35301b837121)
